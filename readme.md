@@ -6,7 +6,7 @@
 ## 提示
 由于近期 `Nyahentai` 及其镜像站关停，现转为爬取 `Nhentai` 之内容，原先代码可在 `nyahentai` 分支下使用。
 
-本程序暂未直接代理，需要本地运行者可以到 `get.py` 文件自己取消相关代码注释。
+本程序暂未直接代理，需要本地运行者可以到 `get.py` 文件自己取消相关代码注释
 
 ## 运行状态
 [![Getting daily bz](https://github.com/xiao-gy/daily-bz/actions/workflows/daily-bz.yml/badge.svg)](https://github.com/xiao-gy/daily-bz/actions/workflows/daily-bz.yml)
